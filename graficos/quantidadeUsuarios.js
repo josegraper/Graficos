@@ -35,7 +35,7 @@ async function quantidadeUsuariosPorRede() {
             title: {
                 text: 'Nome das redes',
                 font: {
-                    color: getCSS('--primary-color')
+                    color: getCSS('--third-color: #3B3030;')
                 }
             }
         },
